@@ -1,8 +1,8 @@
 {
   "name": "ol-plot",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "description": "plotting",
-  "main": "plot.min.js",
-  "style": "plot.min.css"
+  "main": "ol-plot.min.js",
+  "style": "ol-plot.min.css"
 }
